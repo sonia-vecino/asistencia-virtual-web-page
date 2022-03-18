@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color:#b1bfac;
+  background-color:#edf2f4;
 }
 h1 {
   font-style: italic;
@@ -45,8 +45,8 @@ h1 {
   }
 
 .grid :hover {
-  border: 1px solid #f7e7ce;
-  background-color: #f7e7ce;
+  border: 1px solid #8d99ae;
+  background-color: #8d99ae;
   opacity: 0.9;
 }
 
@@ -62,7 +62,7 @@ div.only {
 }
 
 .piedepagina {
-  background-color: #f7e7ce;
+  background-color: #ef233c;
   opacity: 0.7;
   font-family: 'Hubballi', cursive;;
   font-size: small;
